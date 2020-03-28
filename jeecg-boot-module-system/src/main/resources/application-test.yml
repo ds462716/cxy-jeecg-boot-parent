@@ -156,6 +156,7 @@ jeecg :
     accessKey: WegDpuKzOuPK6D3N
     secretKey: ??
     bucketName: jeecgos
+    # bucketName + endpoint 中间一个点
     staticDomain: https://static.jeecg.com
   # ElasticSearch 设置
   elasticsearch:
